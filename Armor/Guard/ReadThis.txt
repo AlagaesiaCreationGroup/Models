@@ -1,0 +1,12 @@
+Here is some Guard Armor that was made and textured by a previous modeller.
+
+The Armor comes in a .nif format and is ready for game.
+If you want to test it in game follow the below steps:
+
+Put the file "ACG_gileadcity_guard_armor.esp" in 'Skyrim-Data'
+
+Don't rename the "GalbatorixGuardArmor" folder and put it in 'Skyrim-Data-Textures-Alagaesia'
+
+Don't rename the "GalbatorixGuard" folder and put it in 'Skyrim-Data-Meshes-Alagaesia-Armor'
+
+Done!!! The weapons will now be ingame, but I think you will have to use console commands to get them.
